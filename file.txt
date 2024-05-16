@@ -10,4 +10,8 @@ System.out.println("First Java pull");
 System.out.println("main branch");
 
 }
+
+public method print2(){
+System.out.println("chganged from local main");
+}
 }
