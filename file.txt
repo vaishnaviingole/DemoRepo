@@ -1,1 +1,8 @@
-good Moening everyoner
+import java.lang.*;
+
+public class file{
+ public static void main (String args[])
+{
+  System.out.println("First Java");
+}
+}
